@@ -1,0 +1,17 @@
+{
+    "name": "richellin/composer-packagist-tutorial",
+    "authors": [
+        {
+            "name": "sangjun",
+            "email": "richellin7@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Test": "."
+        }
+    }
+}
